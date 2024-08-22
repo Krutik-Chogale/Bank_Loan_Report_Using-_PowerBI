@@ -67,7 +67,9 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 <i><b>Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
 <i><b>Hierarchy:</b></i> Home Ownership Categories (e.g., own, rent, mortgage)<br>
 <i><b>Objective:</b></i> This tree map will display loan metrics categorized by different home ownership statuses, allowing for a hierarchical view of how home ownership impacts loan applications and disbursements.<br>
+
 > [!NOTE]
 > These diverse chart types will enhance our ability to visualize and communicate loan-related insights effectively, supporting data-driven decisions and strategic planning within our lending operations.
+
 
 
