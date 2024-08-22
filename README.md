@@ -35,38 +35,38 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 In our Bank Loan Report project, we aim to visually represent critical loan-related metrics and trends using a variety of chart types. These charts will provide a clear and insightful view of our lending operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. Below are the specific chart requirements:<br>
 <h4>1. Monthly Trends by Issue Date (Line Chart):</h4>
 <h4>Chart Type: Line Chart</h4>
-<i><b>Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
-<i><b>X-Axis:</b></i>  Month (based on 'Issue Date')<br>
-<i><b>Y-Axis:</b></i>  Metrics' Values<br>
-<i><b>Objective:</b></i>  This line chart will showcase how 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' vary over time, allowing us to identify seasonality and long-term trends in lending activities.
+<i><b>+ Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
+<i><b>+X-Axis:</b></i>  Month (based on 'Issue Date')<br>
+<i><b>+Y-Axis:</b></i>  Metrics' Values<br>
+<i><b>+Objective:</b></i>  This line chart will showcase how 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' vary over time, allowing us to identify seasonality and long-term trends in lending activities.
 <h4>2. Regional Analysis by State (Filled Map):</h4>
 <h4>Chart Type: Filled Map</h4>
-<i><b>Metrics:</b></i>  'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
-<i><b>Geographic Regions:</b></i>  States<br>
-<i><b>Objective:</b></i>   This filled map will visually represent lending metrics categorized by state, enabling us to identify regions with significant lending activity and assess regional disparities.<br>
+<i><b>+Metrics:</b></i>  'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
+<i><b>+Geographic Regions:</b></i>  States<br>
+<i><b>+Objective:</b></i>   This filled map will visually represent lending metrics categorized by state, enabling us to identify regions with significant lending activity and assess regional disparities.<br>
 <h4>3. Loan Term Analysis (Donut Chart):</h4>
 <h4>Chart Type: Donut Chart</h4>
-<i><b>Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
-<i><b>Segments:</b></i>: Loan Terms (e.g., 36 months, 60 months)<br>
-<i><b>Objective:</b></i> This donut chart will depict loan statistics based on different loan terms, allowing us to understand the distribution of loans across various term lengths.<br>
+<i><b>+Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
+<i><b>+Segments:</b></i>: Loan Terms (e.g., 36 months, 60 months)<br>
+<i><b>+Objective:</b></i> This donut chart will depict loan statistics based on different loan terms, allowing us to understand the distribution of loans across various term lengths.<br>
 <h4>4. Employee Length Analysis (Bar Chart):</h4>
 <h4>Chart Type: Bar Chart</h4>
-<i><b>Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
-<i><b>X-Axis:</b></i> Employee Length Categories (e.g., 1 year, 5 years, 10+ years)<br>
-<i><b>Y-Axis:</b></i> Metrics' Values<br>
-<i><b>Objective:</b></i> This bar chart will illustrate how lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
+<i><b>+Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
+<i><b>+X-Axis:</b></i> Employee Length Categories (e.g., 1 year, 5 years, 10+ years)<br>
+<i><b>+Y-Axis:</b></i> Metrics' Values<br>
+<i><b>+Objective:</b></i> This bar chart will illustrate how lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
 <h4>5. Loan Purpose Breakdown (Bar Chart):</h4>
 <h4>Chart Type: Bar Chart</h4>
-<i><b>Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
-<i><b>X-Axis:</b></i> Loan Purpose Categories (e.g., debt consolidation, credit card refinancing)<br>
-<i><b>Y-Axis:</b></i> Metrics' Values<br>
-<i><b>Objective:</b></i> This bar chart will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
+<i><b>+Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
+<i><b>+X-Axis:</b></i> Loan Purpose Categories (e.g., debt consolidation, credit card refinancing)<br>
+<i><b>+Y-Axis:</b></i> Metrics' Values<br>
+<i><b>+Objective:</b></i> This bar chart will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 
 <h4>6. Home Ownership Analysis (Tree Map):</h4>
 <h4>Chart Type: Tree Map</h4>
-<i><b>Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
-<i><b>Hierarchy:</b></i> Home Ownership Categories (e.g., own, rent, mortgage)<br>
-<i><b>Objective:</b></i> This tree map will display loan metrics categorized by different home ownership statuses, allowing for a hierarchical view of how home ownership impacts loan applications and disbursements.<br><hr>
+<i><b>+Metrics:</b></i> 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received'<br>
+<i><b>+Hierarchy:</b></i> Home Ownership Categories (e.g., own, rent, mortgage)<br>
+<i><b>+Objective:</b></i> This tree map will display loan metrics categorized by different home ownership statuses, allowing for a hierarchical view of how home ownership impacts loan applications and disbursements.<br><hr>
 
 > [!NOTE]
 > These diverse chart types will enhance our ability to visualize and communicate loan-related insights effectively, supporting data-driven decisions and strategic planning within our lending operations.
